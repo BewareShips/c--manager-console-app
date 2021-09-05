@@ -1,0 +1,16 @@
+E:\it\c#\EmployeeTask\obj\Debug\net5.0\EmployeeTask.csproj.AssemblyReference.cache
+E:\it\c#\EmployeeTask\obj\Debug\net5.0\EmployeeTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\it\c#\EmployeeTask\obj\Debug\net5.0\EmployeeTask.AssemblyInfoInputs.cache
+E:\it\c#\EmployeeTask\obj\Debug\net5.0\EmployeeTask.AssemblyInfo.cs
+E:\it\c#\EmployeeTask\obj\Debug\net5.0\EmployeeTask.csproj.CoreCompileInputs.cache
+E:\it\c#\EmployeeTask\bin\Debug\net5.0\EmployeeTask.exe
+E:\it\c#\EmployeeTask\bin\Debug\net5.0\EmployeeTask.deps.json
+E:\it\c#\EmployeeTask\bin\Debug\net5.0\EmployeeTask.runtimeconfig.json
+E:\it\c#\EmployeeTask\bin\Debug\net5.0\EmployeeTask.runtimeconfig.dev.json
+E:\it\c#\EmployeeTask\bin\Debug\net5.0\EmployeeTask.dll
+E:\it\c#\EmployeeTask\bin\Debug\net5.0\ref\EmployeeTask.dll
+E:\it\c#\EmployeeTask\bin\Debug\net5.0\EmployeeTask.pdb
+E:\it\c#\EmployeeTask\obj\Debug\net5.0\EmployeeTask.dll
+E:\it\c#\EmployeeTask\obj\Debug\net5.0\ref\EmployeeTask.dll
+E:\it\c#\EmployeeTask\obj\Debug\net5.0\EmployeeTask.pdb
+E:\it\c#\EmployeeTask\obj\Debug\net5.0\EmployeeTask.genruntimeconfig.cache
